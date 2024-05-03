@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 
 - Trabalho como professor em uma escola Estadual
--  Sou Corinthiano
+-  **Sou Corinthiano**
 -  Minha idade é 22 anos 
